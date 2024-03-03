@@ -45,3 +45,7 @@ Epoch 8 | Loss: 0.0776486 | Acc: 0.979
 Epoch 9 | Loss: 0.0761722 | Acc: 0.9801
 Epoch 10 | Loss: 0.0751737 | Acc: 0.9802
 ```
+
+## License
+
+Please check the MIT license that is listed in this repository.
