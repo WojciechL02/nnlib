@@ -1,0 +1,9 @@
+.idea
+
+data/t10k*
+data/train*
+
+cmake-build-debug
+CMakeFiles
+
+CMakeCache.txt
